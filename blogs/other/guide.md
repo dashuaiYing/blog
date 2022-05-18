@@ -1,5 +1,5 @@
 ---
-title: vuepress-theme-reco
+title: vuepress
 date: 2022-05-16
 ---
 

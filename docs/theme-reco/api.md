@@ -1,6 +1,6 @@
 ---
-title: api
+title: 方法
 date: 2022-05-16
 ---
 
-This is api.
+具体的方法.

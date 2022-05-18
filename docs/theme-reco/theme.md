@@ -1,6 +1,6 @@
 ---
-title: theme
+title: 这里可以写一些技术博客
 date: 2022-05-16
 ---
 
-This is theme.
+这里是内容.

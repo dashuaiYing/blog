@@ -1,6 +1,6 @@
 ---
-title: plugin
+title: 歌曲
 date: 2022-05-16
 ---
 
-This is plugin.
+歌曲的内容.

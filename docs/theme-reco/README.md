@@ -1,6 +1,6 @@
 ---
-title: theme-reco
+title: 这是一个简单的文档
 date: 2022-05-16
 ---
 
-This is theme-reco.
+这里是文档的内容.
