@@ -1,6 +1,7 @@
 module.exports = {
-  "title": "",
-  "description": "",
+  base: '/blog/',
+  "title": "xiaoming",
+  "description": "我宁愿犯错，也不愿什么都不做",
   "dest": "public",
   "head": [
     [
@@ -22,17 +23,17 @@ module.exports = {
   "themeConfig": {
     "nav": [
       {
-        "text": "Home",
+        "text": "我的",
         "link": "/",
         "icon": "reco-home"
       },
       {
-        "text": "TimeLine",
+        "text": "时间轴",
         "link": "/timeline/",
         "icon": "reco-date"
       },
       {
-        "text": "Docs",
+        "text": "文档",
         "icon": "reco-message",
         "items": [
           {
@@ -42,7 +43,7 @@ module.exports = {
         ]
       },
       {
-        "text": "Contact",
+        "text": "链接",
         "icon": "reco-message",
         "items": [
           {
@@ -74,16 +75,9 @@ module.exports = {
     },
     "friendLink": [
       {
-        "title": "午后南杂",
+        "title": "小明",
         "desc": "Enjoy when you can, and endure when you must.",
-        "email": "1156743527@qq.com",
-        "link": "https://www.recoluan.com"
-      },
-      {
-        "title": "vuepress-theme-reco",
-        "desc": "A simple and beautiful vuepress Blog & Doc theme.",
-        "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
-        "link": "https://vuepress-theme-reco.recoluan.com"
+        "email": "tr_ymj@qq.com",
       }
     ],
     "logo": "/logo.png",
@@ -93,9 +87,9 @@ module.exports = {
     "author": "",
     "authorAvatar": "/avatar.png",
     "record": "xxxx",
-    "startYear": "2017"
+    "startYear": "2022"
   },
   "markdown": {
     "lineNumbers": true
-  }
+  },
 }

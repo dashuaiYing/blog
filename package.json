@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "myblog",
   "version": "1.0.0",
   "author": "reco_luan",
   "scripts": {
@@ -7,6 +7,8 @@
     "build": "vuepress build ."
   },
   "devDependencies": {
+    "@vuepress-reco/vuepress-plugin-bulletin-popover": "^1.6.0",
+    "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
     "vuepress": "1.8.2",
     "vuepress-theme-reco": "1.6.10"
   },
