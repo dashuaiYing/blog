@@ -27,7 +27,7 @@ module.exports = {
         theme: ['koharu', 'blackCat', 'whiteCat', 'haru1', 'haru2', 'haruto', 'izumi', 'shizuku', 'wanko', 'miku', 'z16'],
         clean: false,
         messages: {
-          welcome: '我是xiaoming欢迎你的关注 ',
+          welcome: '我是xiaoming,欢迎你的访问 ',
           home: '心里的花，我想要带你回家。',
           theme: '好吧，希望你能喜欢我的其他小伙伴。',
           close: '再见哦'
@@ -43,8 +43,8 @@ module.exports = {
           {
             name: '一路生花',
             artist: 'xiaoming',
-            url: '/温奕心-一路生花.mp3',
-            cover: '/me.jpg'
+            url: 'https://go-sycdn.kuwo.cn/9baf3773305ab4a82eecbeeecbba5baa/628612a5/resource/n1/0/59/4273740735.mp3',
+            cover: 'https://img-blog.csdnimg.cn/20a69ce4fbcf4d4e96ec2b3045dce450.png'
           }
         ] ,
         // 是否默认缩小
@@ -77,7 +77,7 @@ module.exports = {
         },
         {
           type: 'image',
-          src: '/addMe.jpg',
+          src: 'https://img-blog.csdnimg.cn/51b87d3a4fdd45f0925f4d9eaf7999e0.jpeg',
         }
       ],
       footer: [
@@ -124,7 +124,7 @@ module.exports = {
           // 到达屏幕另一侧的速度有多快
           horizontalSpeed: 200,
           // 在任何给定时间，屏幕上会保留多少条带
-          ribbonCount: 2,
+          ribbonCount: 3,
           // 添加笔划以及色带填充颜色
           strokeSize: 0,
           // 通过页面滚动上的因子垂直移动色带
@@ -137,7 +137,7 @@ module.exports = {
       }],
       [
         "sakura", {
-          num: 30,  // 默认数量
+          num: 22,  // 默认数量
           show: true, //  是否显示
           zIndex: 9999,   // 层级
           img: {
