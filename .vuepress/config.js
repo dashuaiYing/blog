@@ -78,7 +78,7 @@ module.exports = {
         },
         {
           type: 'image',
-          src: '/addMe.jpg',
+          src: '/pubic/addMe.jpg',
         }
       ],
       footer: [
