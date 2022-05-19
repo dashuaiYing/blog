@@ -34,7 +34,7 @@ module.exports = {
           close: '再见哦'
         },
         width: 260,
-        height: 352,
+        height: 360,
       }
     ],
     [
@@ -45,7 +45,7 @@ module.exports = {
             name: '一路生花',
             artist: 'xiaoming',
             url: '/温奕心-一路生花.mp3',
-            cover: '/avatar.png'
+            cover: '/me.jpg'
           }
         ] ,
         // 是否默认缩小
@@ -67,6 +67,45 @@ module.exports = {
         }
       }
     ],
+    ['@vuepress-reco/vuepress-plugin-bulletin-popover', {
+      width: '300px', // 默认 260px
+      title: '消息提示',
+      body: [
+        {
+          type: 'title',
+          content: '扫码加我为好友，一起讨论前端技术',
+          style: 'text-aligin: center;'
+        },
+        {
+          type: 'image',
+          src: '/addMe.jpg',
+        }
+      ],
+      footer: [
+        {
+          type: 'button',
+          text: '打赏',
+          link: '/donate'
+        } 
+      ]
+    }],
+    // 光标效果
+    ['cursor-effects', {
+      size: 2, // size of the particle, default: 2
+      shape: 'star', // ['star' | 'circle'], // shape of the particle, default: 'star'
+      zIndex: 999999999, // z-index property of the canvas, default: 999999999
+      }],
+      ['dynamic-title', {
+        showIcon: 'favicon.ico',
+        showText: '这就对了嘛，继续看~~',
+        hideIcon: 'favicon.ico',
+        hideText: '哎，你走什么啊~~',
+        recoverTime: 2000,
+       }],
+       ['@vuepress/active-header-links', {
+        sidebarLinkSelector: '.sidebar-link',
+        headerAnchorSelector: '.header-anchor'
+      }]
   ],
   "themeConfig": {
     "nav": [
@@ -85,7 +124,7 @@ module.exports = {
         "icon": "reco-message",
         "items": [
           {
-            "text": "vuepress-reco",
+            "text": "文档内容",
             "link": "/docs/theme-reco/"
           }
         ]
@@ -124,7 +163,7 @@ module.exports = {
     "friendLink": [
       {
         "title": "小明",
-        "desc": "Enjoy when you can, and endure when you must.",
+        "desc": "你可以真诚的爱，直接的厌恶，热烈的喜欢.",
         "email": "tr_ymj@qq.com",
       }
     ],
