@@ -84,7 +84,7 @@ module.exports = {
         {
           type: 'button',
           text: '打赏',
-          link: '/donate'
+          link: '/donate/'
         } 
       ]
     }],
