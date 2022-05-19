@@ -7,10 +7,15 @@
     "build": "vuepress build ."
   },
   "devDependencies": {
+    "@vuepress-reco/vuepress-plugin-bgm-player": "^1.1.4",
     "@vuepress-reco/vuepress-plugin-bulletin-popover": "^1.6.0",
     "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
-    "vuepress": "1.8.2",
+    "vuepress": "^1.9.7",
     "vuepress-theme-reco": "1.6.10"
   },
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@vuepress/plugin-medium-zoom": "^1.9.7",
+    "vuepress-plugin-dynamic-title": "^1.0.0"
+  }
 }
