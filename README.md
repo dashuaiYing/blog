@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: XIAOMING
-tagline: 我宁愿犯错，也不愿什么都不做.
+# heroText: XIAOMING
+# tagline: 我宁愿犯错，也不愿什么都不做.
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
@@ -19,3 +19,5 @@ isShowTitleInHome: false
 actionText: Guide
 actionLink: /views/other/guide
 ---
+
+<newfont/>
