@@ -84,7 +84,8 @@ module.exports = {
         {
           type: 'button',
           text: '打赏',
-          link: '/donate/'
+          "link": "/docs/theme-reco/"
+          
         } 
       ]
     }],
@@ -165,7 +166,7 @@ module.exports = {
         "items": [
           {
             "text": "文档内容",
-            "link": "/docs/theme-reco/"
+            "link": "/docs/theme-reco/donate/"
           }
         ]
       },
