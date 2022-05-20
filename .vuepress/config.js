@@ -41,9 +41,9 @@ module.exports = {
       {
         audios: [
           {
-            name: '一路生花',
+            name: '老鼠爱大米',
             artist: 'xiaoming',
-            url: 'https://go-sycdn.kuwo.cn/9baf3773305ab4a82eecbeeecbba5baa/628612a5/resource/n1/0/59/4273740735.mp3',
+            url: 'https://m801.music.126.net/20220520180939/eb4ad3a1198ac7cb4d603e046d260fb9/jdyyaac/0658/510e/0f5b/121e39b9f6fd3bb4a1f8812f138a3547.m4a',
             cover: 'https://img-blog.csdnimg.cn/20a69ce4fbcf4d4e96ec2b3045dce450.png'
           }
         ] ,
