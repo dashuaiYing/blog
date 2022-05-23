@@ -12,6 +12,10 @@ categories:
 <img src="https://img-blog.csdnimg.cn/db575da74b1f4f38af4fc0077f45402f.png">
 
 
+### 这是效果图
+
+<img src="../../../.vuepress/public/ball.png">
+
 css
 
 ```css
@@ -25,7 +29,7 @@ css
             height: 100%;
         }
         body {
-            background: url('./bg.jpg');
+            background: url('你的背景图片');
         }
         .ball {
             position: absolute;

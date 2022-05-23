@@ -11,6 +11,11 @@ categories:
 ## 多看美女可以长寿 保持心情愉悦
 <img src="https://img0.baidu.com/it/u=3784738455,2043719400&fm=253&fmt=auto&app=120&f=JPEG?w=889&h=500">
 
+### 这是效果图 鼠标移动就会随机生成小球
+
+<img src="../../../.vuepress/public/fireworks.png">
+
+
 
 css 部分
 
