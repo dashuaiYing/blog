@@ -3,6 +3,11 @@ title: 原生js实现放大镜效果
 date: 2022-05-17
 ---
 
+
+### 多看美女可以长寿 保持心情愉悦
+<img src="../../.vuepress/public/girl2.png">
+
+
 <h1 style="text-align:center">原生js实现放大镜</h1>
 
 html部分

@@ -3,6 +3,10 @@ title: 统计字符串个数、吸顶效果和发送微博
 date: 2022-05-16
 ---
 
+### 多看美女可以长寿 保持心情愉悦
+<img src="../../.vuepress/public/girl1.png">
+
+
 <h2 style="text-align:center">统计字符串个数、吸顶效果和微博发送</h2>>
 
 ### 一、统计字符串个数

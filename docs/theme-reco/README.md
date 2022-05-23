@@ -2,6 +2,10 @@
 title: 打字机效果
 date: 2022-05-18
 ---
+### 多看美女可以长寿 保持心情愉悦
+<img src="../../.vuepress/public/girl3.png">
+
+
 
 css部分
 
